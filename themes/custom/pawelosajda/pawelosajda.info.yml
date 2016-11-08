@@ -1,0 +1,9 @@
+name: Paweł Osajda
+type: theme
+description: pawelosajda.pl theme
+core: 8.x
+libraries:
+    - pawelosajda/global-styling
+libraries-override:
+    system/base: false
+    views/views.module: false

@@ -1,0 +1,12 @@
+global-styling:
+    version: 1.x
+    css:
+        theme:
+            http://fonts.googleapis.com/icon?family=Material+Icons: {type: external}
+            css/materialize.css: {}
+            css/style.css: {}
+    js:
+        js/materialize.js: {}
+        js/script.js: {}
+    dependencies:
+        - core/jquery
